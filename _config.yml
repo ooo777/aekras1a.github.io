@@ -23,8 +23,8 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-#twitter: username
+email: aekras1a@myprivat.email
+twitter: aekrs1
 #facebook: username
 #google:
   #plus: #username
@@ -34,6 +34,7 @@ sass:
   #ad-slot:
 #bing-verify:
 github: Aekras1a
+keybase: aekras1a
 #stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
@@ -42,7 +43,7 @@ github: Aekras1a
 #tumblr: username
 #pinterest: username
 #foursquare: username
-steam: /id/roonyhd
+#steam: username
 #dribbble: username
 #youtube: username
 #soundcloud: username
@@ -69,7 +70,7 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://aekras1a.github.io
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
